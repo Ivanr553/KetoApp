@@ -1,0 +1,20 @@
+{
+  "name": "keto",
+  "version": "1.0.0",
+  "description": "Keto or Naw",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "fatsecret": "^1.0.2",
+    "mongoose": "^4.11.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Ivan Raffucci",
+  "license": "ISC"
+}
